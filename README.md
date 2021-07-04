@@ -116,3 +116,4 @@ Notice the last expectation of our test: `expect{puts status}.to
 raise_error(NameError)`. We expect any attempt to use the `status` variable to
 be met with a `NameError`. Our program, outside of the
 `#rescue_princess_peach`method, just doesn't know what it is.
+# Phase3MethodScope
